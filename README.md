@@ -1,4 +1,3 @@
-# online-food-ordering-system-JIRA-agile
 # Online Food Ordering System (Agile Scrum Project)
 
 ## Project Overview
