@@ -26,14 +26,13 @@ This project is an Online Food Ordering System developed using Agile Scrum metho
 - Jira
 - Agile Scrum
 - Kanban Board
-- Documentation Tools (Word/PDF)
-- Diagrams (Draw.io / Canva)
+- Documentation Tools (Word)
+- Diagrams 
 
 ## Screenshots
 (Add Jira boards and sprint screenshots here)
 
-## Role
-Business Analyst / Project Coordinator / Scrum Execution Simulation
+
 
 ## Status
 Completed / Academic Project
